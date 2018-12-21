@@ -1,0 +1,15 @@
+DaMage Mod: 
+
+Spells:
+Explose Shots
+Energy Drain (replenishes player health)
+Rage (makes enemies fight each other)
+
+Mana System:
+Explosive Shots cost 5 mana
+Energy Drain cost 10 mana
+Rage cost 20 mana
+
+Spellbook:
+F1 will display available spells and mana costs for each spell and last used spell.
+
